@@ -4,10 +4,9 @@
 ## Project Screenshots 📷
 
 <p align="center">
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://i.imgur.com/ZHGkrOx.png">
+![Screenshot 2](https://i.imgur.com/7tgO1BY.png)
+![Screenshot 3](https://i.imgur.com/drU3k2t.png)
 </p>
 
 ### Instalation 🔧
