@@ -5,8 +5,8 @@
 
 <p align="center">
 <img src="https://i.imgur.com/ZHGkrOx.png">
-![Screenshot 2](https://i.imgur.com/7tgO1BY.png)
-![Screenshot 3](https://i.imgur.com/drU3k2t.png)
+<img src="https://i.imgur.com/7tgO1BY.png">
+<img src="https://i.imgur.com/drU3k2t.png">
 </p>
 
 ### Instalation 🔧
