@@ -13,7 +13,7 @@
                 <nav id="menu">
                     <ul>
                         <li>
-                            <router-link to="/home" active-class="active">Inicio</router-link>
+                            <router-link to="/home" active-class="active">Home</router-link>
                         </li>
                         <li>
                             <router-link to="/blog" active-class="active">Blog</router-link>
